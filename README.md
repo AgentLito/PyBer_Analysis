@@ -18,13 +18,16 @@ As per the analysis,
 It shows that Urban area have higher number of rides but Average Fare per ride is less than Rural area. ($24.53 vs $34.62)
 In Urban cities, the total fares are higher than Rural and Suburban cities. ($39,854.38 vs $4,327.93) ,($39,854.38 vs 19,356.33)
 In Urban cities the Average Fare per driver is less as compared to Rural cities. ($16.57 vs $55.49)
-![Screen Shot 2021-12-26 at 12 25 38 PM](https://user-images.githubusercontent.com/91812090/147416944-51e4346d-3962-4f66-9b50-70badef6926c.png)
-In Multiple line chart,
 
+![Screen Shot 2021-12-26 at 12 25 38 PM](https://user-images.githubusercontent.com/91812090/147416944-51e4346d-3962-4f66-9b50-70badef6926c.png)
+
+In Multiple line chart,
 We can get information on weekly basis of "Total fare by city type" within the given timeframe that is January 2019 to April 2019.
 It shows ride-sharing company has more total fares and profits in urban cities than in suburban and rural cities.
 In below chart it shows urban cities has reached its total fare to $ 2500 in the month of Feb itself but for rural area maximum total fare reached to $500 in month of April.
+
 ![Screen Shot 2021-12-26 at 12 26 39 PM](https://user-images.githubusercontent.com/91812090/147416948-1c08bf92-19d6-4089-8828-b457394e6622.png)
+
 Summary
 
 The urban city rides make more revenue than the rural area but rural city rides are more profitable than the urban area.
