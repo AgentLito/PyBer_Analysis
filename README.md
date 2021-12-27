@@ -21,8 +21,8 @@ In Urban cities the Average Fare per driver is less as compared to Rural cities.
 
 ![Screen Shot 2021-12-26 at 12 25 38 PM](https://user-images.githubusercontent.com/91812090/147416944-51e4346d-3962-4f66-9b50-70badef6926c.png)
 
-In Multiple line chart,
-We can get information on weekly basis of "Total fare by city type" within the given timeframe that is January 2019 to April 2019.
+In the multiple line chart,
+We can get information on weekly basis of "Total fare by city type" within the timeframe that is January 2019 to April 2019.
 It shows ride-sharing company has more total fares and profits in urban cities than in suburban and rural cities.
 In below chart it shows urban cities has reached its total fare to $ 2500 in the month of Feb itself but for rural area maximum total fare reached to $500 in month of April.
 
@@ -34,4 +34,4 @@ The urban city rides make more revenue than the rural area but rural city rides 
 So, it would be great to focus on improvising the plan to make urban cities rides more profitable.
 Also, it would be great to focus on drivers count, though urban cities have less rides than the drivers count.
 Increase the per mile charges in urban cities because there are more short trips and Average fare per driver is less.
-To increase the drivers count , they can charge more to drivers who is consistence in their work.
+To increase the drivers count , they can charge more to drivers who are more consistent in their work.
